@@ -1,0 +1,9 @@
+for in - quando sabe o tamanho da lista, looping para percorrer listas
+while - quando não sabe o tamanho da lista
+import os - importar arquivos do sistema operacional
+os.system('color 2')
+os.system('cls')
+import time
+time.sleep(segundos)
+comando para desligar o computador:
+#shutdown /s /f /t 0
